@@ -5,7 +5,6 @@ function multiplyAll(arr) {
       product = (arr[i][j] * product);
     }
   }
-
   return product;
 }
 
